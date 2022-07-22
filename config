@@ -1,0 +1,10 @@
+ifconfig
+sudo ifconfig  enp2s0 127.1.1.1
+sudo ifconfig enp2s0 netmaifconfig sk 252.0.0.0
+
+sudo ifconfig enp2s0 hw ether f4:39:09:2e:68:32
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+
+
+
