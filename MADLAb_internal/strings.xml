@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aluminiportal</string>
+    <string name="nav_close"/>
+    <string name="nav_open"/>
+</resources>
